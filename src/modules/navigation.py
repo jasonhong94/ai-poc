@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from st_on_hover_tabs import on_hover_tabs
+# from st_on_hover_tabs import on_hover_tabs
 from views import home, chat
 
 class Navigation:
