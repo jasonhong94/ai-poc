@@ -16,4 +16,4 @@ Install the required dependencies in the virtual environment :
 Launch the chat service locally :
 
 
-OpenAi Api key = "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"
+OpenAi Api key = "your-openai-api"
